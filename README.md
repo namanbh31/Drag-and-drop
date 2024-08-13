@@ -1,6 +1,6 @@
-# 🌟 Drag-and-Drop Playground 🖼️✨
+# 🌟 Better Instagram 🖼️✨
 
-Welcome to the **Drag-and-Drop Playground**! 🎉 This interactive web app lets you easily switch images 🖼️ and content 📝 within any div on the page—just drag and drop to rearrange everything to your heart's content! 🎨
+Welcome to the **Better Instagram**! 🎉 This interactive web app lets you easily switch images 🖼️ and content 📝 within any div on the page—just drag and drop to rearrange everything to your heart's content! 🎨
 
 🚀 **Features:**
 - 🔄 **Seamless Drag-and-Drop**: Effortlessly switch images and text in real-time.
